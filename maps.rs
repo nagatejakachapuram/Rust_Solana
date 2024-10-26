@@ -5,7 +5,7 @@ pub fn main() {
     // 3 operations on maps are
     // INSERT
     // GET
-    // REOVE
+    // REMOVE
 
     map.insert(0,"Hi_there");
     map.insert(1,"Bye");
